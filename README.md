@@ -30,4 +30,4 @@ For other users:
    (https://www.onlinegdb.com/online_c++_compiler). Make sure the
    online compiler is set to C++.
 3) Upload the main.cpp, auth.cpp, and auth.h files.
-4) Run/complile the code.
+4) Run/compile the code.
