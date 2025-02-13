@@ -1,6 +1,5 @@
 #include "auth.h" // Includes the AUTH_H header file.
 #include <iostream>
-using namespace std;
 
 // AuthenticateUser function definition
 authenticateUser::authenticateUser(string userNameInput, string passwordInput) {
@@ -10,12 +9,10 @@ authenticateUser::authenticateUser(string userNameInput, string passwordInput) {
 	// Asks user for password.
 	cout << "Enter Password: ";
 	cin >> passwordInput;
-	// Makes the private variables equal to the public ones.
-	userName = userNameInput;
-	password = passwordInput;
-	// If statment checks if userName matches "admin",
-	// and if password matches "password123".
-	if (userName == "admin" && password == "password123") {
+	/* Makes the private variables equal to the public variables.
+	   The If statment checks if userName matches "admin",
+	   and if password matches "password123". */
+	if (userNameInput == userName  && passwordInput == password) {
 		cout << "Logging in..." << endl;
 		cout << "Welcome " << userNameInput << "!\n";
 	}
