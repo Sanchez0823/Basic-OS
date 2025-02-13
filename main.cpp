@@ -10,8 +10,9 @@ int main() {
     string userNameInput;
     string passwordInput;
     // Boot up message.
-    cout << "Booting up Basic OS...\n";
+    cout << "Booting up operating system...\n";
     cout << "Boot up process complete.\n";
+    cout << "---------- Welcome to Basic OS v0.1 ----------\a\n";
     // authenticateUser function and class call.
     authenticateUser authenticateUser(userNameInput, passwordInput);
     return 0; // Returns 0 when the program exits.
