@@ -1,9 +1,10 @@
 # Basic-OS
 DISCLAIMER: I (Arturo) am new to GitHub, so if there are any errors in this repository, please let me know.
-This repository is a project of CSCE 4326 (Operating Systems). The project BasicOS, is a new Operating System
+This repository is a project of the CSCE 4326 (Operating Systems) course. The project BasicOS, is a new Operating System
 that runs in C++ code. Files include *main.cpp*, *auth.cpp*, and *auth.h*. Part 1 of this project was completed on Feb. 12, 2025.
 
 Update Logs:
+
 2/10/2025 - Github Repository repository created. No other members have joined, making this an independent project.
 2/12/2025 - Part 1 of this project completed. This part adds the following:
 
@@ -19,9 +20,9 @@ INSTRUCTIONS:
 For Windows users:
 1) Download the Basic OS.zip file here: https://drive.google.com/file/d/1HM7nWc1c9eNAfJrRWWywYFk5Cgn8qPsy/view?usp=sharing
 2) Extract the .zip file into a desired folder
-3) Open Visual Studios and click "Open a project or solution"
+3) Open Visual Studios and click "Open a project or solution",
    and select the Basic OS.sln file inside the extracted folder.
-4) Click "Local Windows Debuggers". The code should compile.
+4) Click "Local Windows Debuggers" button at the top. The code should compile.
 
 For other users:
 1) Download each individual .cpp and .h file
