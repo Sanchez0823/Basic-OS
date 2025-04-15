@@ -1,6 +1,6 @@
 # Basic-OS
 Note: I am new to GitHub, so if there are any errors in this repository, please let me know.
-This repository is a project of the CSCE 4326 (Operating Systems) course. The project, Basic OS, is a new Operating System that runs in C++ code. Files include *main.cpp*, *auth.cpp*, *auth.h*, *virtual_memory.cpp*, and  *virtual_memory.h* Part 2 of this project was completed on Apr. 15, 2025.
+This repository is a project of the CSCE 4326 (Operating Systems) course. The project, Basic OS, is a new Operating System that runs in C++ code. This program simulates operating system authentication and virtual memory. Files include *main.cpp*, *auth.cpp*, *auth.h*, *virtual_memory.cpp*, and *virtual_memory.h* Part 2 of this project was completed on Apr. 15, 2025.
 
 auth.h: header file contains the authentication function declaration.
 auth.cpp: C++ file containing the authentication function definition.
